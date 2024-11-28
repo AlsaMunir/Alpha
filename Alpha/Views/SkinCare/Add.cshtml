@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+
+    <div class="login" style="margin:0;font-family: Arapey, serif;margin-top:8%;">
+
+        <form method="post" action="/SkinCare/Add" enctype="multipart/form-data" style="margin-top:10px;" class="text-dark">
+            <fieldset>
+            <label><b> name:</b></label>
+            <input type="text" id="SkinCareName" name="SkinCareName" placeholder="Enter  name">
+            <br />
+            <label><b>Price:</b></label>
+            <input type="text" id="Price" name="Price" placeholder="Enter Price">
+            <br />
+            <label><b>Description:</b></label>
+            <input type="text" id="SkinCareDescription" name="SkinCareDescription" placeholder="Enter Description">
+            <br />
+            <div class="mt-3">
+                <input type="file" id="CoverImage" name="CoverImage">
+            </div>
+                <button type="button" onclick="get()">Add</button>
+                <br />
+                <br />
+            </fieldset>
+
+        </form>
+    </div>
+
+<br />
+
+
+
+@section Scripts
+{
+
+    <script>
+
+        function get() {
+
+            var formData = new FormData();
+            formData.append("SkinCareName", $('#SkinCareName').val());
+            formData.append("Price", $('#Price').val());
+            formData.append("SkinCareDescription", $('#SkinCareDescription').val());
+            formData.append("CoverImage", $('#CoverImage')[0].files[0]);
+            addbook(formData)
+
+
+        }
+
+        function addbook(formData) {
+            $.ajax({
+                url: '/SkinCare/Add',
+                method: 'POST',
+                data: formData,
+                contentType: false,
+                processData:false,
+                success: function(data) {
+                    console.log(data);
+                },
+                error: function(err) {
+                    console.log(err);
+                }
+            });
+        }
+
+    </script>
+}

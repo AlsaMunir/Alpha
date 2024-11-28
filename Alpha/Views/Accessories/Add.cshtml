@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+
+    <div class="login" style="margin:0;font-family: Arapey, serif;margin-top:8%;">
+
+        <form method="post" action="/Accessories/Add" enctype="multipart/form-data" style="margin-top:10px;" class="text-dark">
+            <fieldset>
+            <label><b> name:</b></label>
+            <input type="text" id="AccessoriesName" name="AccessoriesName" placeholder="Enter  name">
+            <br />
+            <label><b>Price:</b></label>
+            <input type="text" id="Price" name="Price" placeholder="Enter Price">
+            <br />
+            <label><b>Description:</b></label>
+            <input type="text" id="AccessoriesDescription" name="AccessoriesDescription" placeholder="Enter Description">
+            <br />
+            <div class="mt-3">
+                <input type="file" id="CoverImage" name="CoverImage">
+            </div>
+                <button type="button" onclick="get()">Add</button>
+                <br />
+                <br />
+            </fieldset>
+
+        </form>
+    </div>
+
+<br />
+
+
+
+@section Scripts
+{
+
+    <script>
+
+        function get() {
+
+            var formData = new FormData();
+            formData.append("AccessoriesName", $('#AccessoriesName').val());
+            formData.append("Price", $('#Price').val());
+            formData.append("AccessoriesDescription", $('#AccessoriesDescription').val());
+            formData.append("CoverImage", $('#CoverImage')[0].files[0]);
+            addbook(formData)
+
+
+        }
+
+        function addbook(formData) {
+            $.ajax({
+                url: '/Accessories/Add',
+                method: 'POST',
+                data: formData,
+                contentType: false,
+                processData:false,
+                success: function(data) {
+                    console.log(data);
+                },
+                error: function(err) {
+                    console.log(err);
+                }
+            });
+        }
+
+    </script>
+}

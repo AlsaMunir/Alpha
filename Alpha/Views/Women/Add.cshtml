@@ -1,0 +1,68 @@
+﻿@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+
+    <div class="login" style="margin:0;font-family: Arapey, serif;margin-top:8%;">
+
+        <form method="post" action="/Women/Add" enctype="multipart/form-data" style="margin-top:10px;" class="text-dark">
+            <fieldset>
+            <label><b>Outfit name:</b></label>
+            <input type="text" id="WomenOutfitName" name="WomenOutfitName" placeholder="Enter outfit name">
+            <br />
+            <label><b>Price:</b></label>
+            <input type="text" id="Price" name="Price" placeholder="Enter Price">
+            <br />
+            <label><b>Description:</b></label>
+            <input type="text" id="WomenOutfitDescription" name="WomenOutfitDescription" placeholder="Enter Description">
+            <br />
+            <div class="mt-3">
+                <input type="file" id="CoverImage" name="CoverImage">
+            </div>
+                <button type="button" onclick="getoutfit()">Add</button>
+                <br />
+                <br />
+            </fieldset>
+
+        </form>
+    </div>
+
+<br />
+
+
+
+@section Scripts
+{
+
+    <script>
+
+        function getoutfit() {
+
+            var formData = new FormData();
+            formData.append("WomenOutfitName", $('#WomenOutfitName').val());
+            formData.append("Price", $('#Price').val());
+            formData.append("WomenOutfitDescription", $('#WomenOutfitDescription').val());
+            formData.append("CoverImage", $('#CoverImage')[0].files[0]);
+            addbook(formData)
+
+
+        }
+
+        function addbook(formData) {
+            $.ajax({
+                url: '/Women/Add',
+                method: 'POST',
+                data: formData,
+                contentType: false,
+                processData:false,
+                success: function(data) {
+                    console.log(data);
+                },
+                error: function(err) {
+                    console.log(err);
+                }
+            });
+        }
+
+    </script>
+}

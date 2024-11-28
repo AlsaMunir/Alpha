@@ -1,0 +1,67 @@
+﻿@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12 p-0">
+        <div class="categories__item categories__large__item set-bg"
+             data-setbg="@Url.Content("~/img/categories/cate-2.jpg")">
+            <div class="categories__text">
+                <h1>Men’s fashion</h1>
+                <p>
+                    Sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                </p>
+                <a href="#">Shop now</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Product Section Begin -->
+<section class="product spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-4">
+                <div class="section-title">
+                    <h4>Clothes</h4>
+                </div>
+            </div>
+            @foreach (var i in Model)
+            {
+                var imgUrl = Url.Content(i.ImageUrl);
+                <div class="col-lg-3 col-md-4 col-sm-6 mix Men">
+                    <div class="product__item">
+
+                        <div class="product__item__pic set-bg" data-setbg='@imgUrl'>
+                            
+                            <div class="label new">New</div>
+                            <ul class="product__hover">
+                                <li><a href='@imgUrl' class="image-popup"><span class="arrow_expand"></span></a></li>
+                                <li><a href="#"><span class="icon_heart_alt"></span></a></li>
+                                <li>
+                                    <a asp-controller="Cart" asp-action="Index" class="add-to-cart-btn"
+                                       data-id="@i.Id" data-name="@i.MenOutfitName" data-price="@i.Price"
+                                       data-url="@i.ImageUrl">
+                                        <span class="icon_bag_alt"></span>
+                                    </a>
+
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="product__item__text">
+                            <h6><a href="#">@i.MenOutfitName</a></h6>
+                            <div class="rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <div class="product__price">@i.Price</div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>

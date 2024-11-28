@@ -1,0 +1,2173 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Alpha.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Alpha.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source - Copy\\barfiller-master\\README.md",
+      "PackagePath": "staticwebassets\\Source - Copy\\barfiller-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source - Copy\\barfiller-master\\css\\barfiller.css",
+      "PackagePath": "staticwebassets\\Source - Copy\\barfiller-master\\css\\barfiller.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source - Copy\\barfiller-master\\index.html",
+      "PackagePath": "staticwebassets\\Source - Copy\\barfiller-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source - Copy\\barfiller-master\\js\\jquery.barfiller.js",
+      "PackagePath": "staticwebassets\\Source - Copy\\barfiller-master\\js\\jquery.barfiller.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\.gitignore",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\.jshintrc",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\.travis.yml",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\LICENSE",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\README.md",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\bower.json",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\composer.json",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\dist\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\dist\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\dist\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\dist\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\dist\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\libs\\jquery-loader.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\libs\\jquery-loader.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\libs\\qunit\\qunit.css",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\libs\\qunit\\qunit.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\libs\\qunit\\qunit.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\libs\\qunit\\qunit.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\magnific-popup.jquery.json",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\magnific-popup.jquery.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\package.json",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\src\\css\\_settings.scss",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\src\\css\\_settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\src\\css\\main.scss",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\src\\css\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\src\\js\\ajax.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\src\\js\\ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\src\\js\\core.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\src\\js\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\src\\js\\gallery.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\src\\js\\gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\src\\js\\iframe.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\src\\js\\iframe.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\src\\js\\image.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\src\\js\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\src\\js\\inline.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\src\\js\\inline.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\src\\js\\retina.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\src\\js\\retina.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\src\\js\\zoom.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\src\\js\\zoom.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\_includes\\analytics.html",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\_includes\\analytics.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\_includes\\build-tool.html",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\_includes\\build-tool.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\_includes\\examples.html",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\_includes\\examples.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\_includes\\logo.html",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\_includes\\logo.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\_includes\\signup.html",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\_includes\\signup.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\_layouts\\default.html",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\_layouts\\default.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\documentation.md",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\documentation.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\index.html",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\site-assets\\ajax\\test-ajax-2.html",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\site-assets\\ajax\\test-ajax-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\site-assets\\ajax\\test-ajax.html",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\site-assets\\ajax\\test-ajax.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\site-assets\\site.css",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\site-assets\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\third-party-libs\\jquery.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\third-party-libs\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\third-party-libs\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\third-party-libs\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\third-party-libs\\uglify.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\third-party-libs\\uglify.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\third-party-libs\\zepto.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\third-party-libs\\zepto.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\third-party-libs\\zepto.min.js",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\third-party-libs\\zepto.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\Magnific-Popup-master\\website\\wordpress.html",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master\\website\\wordpress.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\.gitattributes",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\.gitignore",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\.travis.yml",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\LICENSE",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\README.md",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\ROADMAP.md",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\ROADMAP.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\_config.json",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\_config.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\bower.json",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\LICENSE",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\README.md",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\dist\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\dist\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\css\\docs.theme.min.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\css\\docs.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\bird_blue_32.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\bird_blue_32.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-drag.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-drag.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-modern.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-modern.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-module.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-module.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-options.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-options.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-responsive.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-responsive.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-zombie.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\feature-zombie.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\owl-logo.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\owl-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\twitter_25.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\img\\twitter_25.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\js\\foundation.min.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\js\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\README.md",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\foundation.min.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\highlight.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\assets\\vendors\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\animate.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\animate.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\autoheight.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\autoheight.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\autoplay.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\autoplay.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\autowidth.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\autowidth.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\basic.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\center.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\center.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\demos.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\demos.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\events.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\lazyLoad.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\lazyLoad.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\merge.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\merge.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\mousewheel.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\mousewheel.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\responsive.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\responsive.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\rtl.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\rtl.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\stagepadding.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\stagepadding.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\test.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\test.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\urlhashnav.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\urlhashnav.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\video.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\demos\\video.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\api-classes.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\api-classes.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\api-events.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\api-events.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\api-options.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\api-options.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\dev-buildin-plugins.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\dev-buildin-plugins.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\dev-external.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\dev-external.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\dev-plugin-api.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\dev-plugin-api.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\dev-styles.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\dev-styles.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\started-faq.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\started-faq.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\started-installation.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\started-installation.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\started-welcome.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\started-welcome.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\support-changelog.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\support-changelog.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\support-contact.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\support-contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\support-contributing.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\docs\\support-contributing.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs\\index.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\bird_blue_32.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\bird_blue_32.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\download.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-drag.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-drag.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-modern.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-modern.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-module.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-module.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-options.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-options.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-responsive.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-responsive.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-zombie.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\feature-zombie.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\owl-logo.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\owl-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\twitter_25.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\img\\twitter_25.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\foundation.min.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\js\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\_settings.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\_settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\custom.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\custom.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\demos.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\demos.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.theme.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\docs.theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\scss\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\foundation.min.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\highlight.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\assets\\vendors\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\data\\classes.json",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\data\\classes.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\data\\events.json",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\data\\events.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\data\\features.json",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\data\\features.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\data\\options.json",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\data\\options.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\helpers\\modulo.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\helpers\\modulo.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\helpers\\test.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\helpers\\test.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\demos.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\demos.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\docs.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\docs.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\home.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\layouts\\home.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\animate.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\animate.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoheight.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoheight.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoplay.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autoplay.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autowidth.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\autowidth.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\basic.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\basic.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\center.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\center.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\demos.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\demos.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\events.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\events.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\lazyLoad.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\merge.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\merge.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\mousewheel.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\mousewheel.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\responsive.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\responsive.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\rtl.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\rtl.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\stagepadding.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\stagepadding.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\test.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\test.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\urlhashnav.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\video.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\demos\\video.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-classes.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-classes.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-events.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-events.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-options.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\api-options.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-buildin-plugins.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-external.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-external.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-plugin-api.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-styles.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\dev-styles.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-faq.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-faq.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-installation.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-installation.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-welcome.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\started-welcome.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-changelog.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-changelog.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contact.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contact.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contributing.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\docs\\support-contributing.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\index.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\pages\\index.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\footer.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\footer.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\head.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\head.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\header.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\header.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-carousel.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-carousel.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-features.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-features.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-hero.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-hero.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-teaser-text.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\home-teaser-text.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\javascripts.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\javascripts.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\releated-docs.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\releated-docs.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\sidenav-docs.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\sidenav-docs.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\title.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\title.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\vendors.hbs",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\docs_src\\templates\\partials\\vendors.hbs"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\package-lock.json",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\package.json",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\img\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\img\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\.jscsrc",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\.jscsrc"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\.jshintrc",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.animate.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.animate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.autoheight.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.autoheight.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.autoplay.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.autoplay.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.autorefresh.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.autorefresh.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.hash.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.hash.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.lazyload.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.lazyload.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.navigation.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.navigation.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.support.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.support.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.support.modernizr.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.support.modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.video.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\js\\owl.video.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_animate.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_animate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_autoheight.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_autoheight.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_lazyload.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_lazyload.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_theme.default.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_theme.default.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_theme.green.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_theme.green.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_theme.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_video.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\_video.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\owl.carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.default.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.scss",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\src\\scss\\owl.theme.green.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\test\\index.html",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\test\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\test\\unit\\autoplay.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\test\\unit\\autoplay.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\OwlCarousel2-2.3.4\\test\\unit\\core.js",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4\\test\\unit\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\.gitattributes",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\.gitignore",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\MIT-LICENSE.txt",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\MIT-LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\README.md",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\bower.json",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\demo\\index.html",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\demo\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\demo\\style.css",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\demo\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\dist\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\dist\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\dist\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\dist\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\dist\\slicknav.css",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\dist\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\dist\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\dist\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\gulpfile.js",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\package.json",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\scss\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\scss\\slicknav.scss",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\scss\\slicknav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\SlickNav-master\\scss\\theme.scss",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master\\scss\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\barfiller-master\\README.md",
+      "PackagePath": "staticwebassets\\Source\\barfiller-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\barfiller-master\\css\\barfiller.css",
+      "PackagePath": "staticwebassets\\Source\\barfiller-master\\css\\barfiller.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\barfiller-master\\index.html",
+      "PackagePath": "staticwebassets\\Source\\barfiller-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\barfiller-master\\js\\jquery.barfiller.js",
+      "PackagePath": "staticwebassets\\Source\\barfiller-master\\js\\jquery.barfiller.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\.bowerrc",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\.bowerrc"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\.gitignore",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\.jshintignore",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\.jshintignore"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\.jshintrc",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\.travis.yml",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\README.md",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\bower.json",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\countdown.jquery.json",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\countdown.jquery.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\dist\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\dist\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\dist\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\dist\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\karma.conf.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\package.json",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\src\\.jshintrc",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\src\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\src\\countdown.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\src\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\integration\\karma.conf.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\integration\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\integration\\requirejs.config.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\integration\\requirejs.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\integration\\requirejs_test.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\integration\\requirejs_test.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\qunit.config.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\qunit.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\scenarios.json",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\scenarios.json"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\date_casting_test.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\date_casting_test.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\event_test.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\event_test.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\functionality_test.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\functionality_test.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\math_test.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\math_test.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\sanity_test.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\sanity_test.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\strftime_test.js",
+      "PackagePath": "staticwebassets\\Source\\jQuery.countdown-master\\jQuery.countdown-master\\test\\unit\\strftime_test.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\UploadedFiles\\Accessories\\ks.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Accessories\\ks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\UploadedFiles\\Men\\ks.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Men\\ks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\UploadedFiles\\SkinCare\\ks.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\SkinCare\\ks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\UploadedFiles\\Women\\29706.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Women\\29706.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\UploadedFiles\\Women\\ks.jpg",
+      "PackagePath": "staticwebassets\\UploadedFiles\\Women\\ks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\details\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\details\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\details\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\details\\comment-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\sidebar\\fp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\fp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\sidebar\\fp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\fp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\blog\\sidebar\\fp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\fp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\categories\\cate-1.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cate-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\categories\\cate-2.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cate-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\categories\\cate-3.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cate-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\categories\\cate-4.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cate-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\discount.jpg",
+      "PackagePath": "staticwebassets\\img\\discount.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\instagram\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\instagram\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\instagram\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\instagram\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\instagram\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\instagram\\insta-6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\jprofile.png",
+      "PackagePath": "staticwebassets\\img\\jprofile.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\kprofile.png",
+      "PackagePath": "staticwebassets\\img\\kprofile.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\l.png",
+      "PackagePath": "staticwebassets\\img\\l.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\mprofile.jpg",
+      "PackagePath": "staticwebassets\\img\\mprofile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\payment\\payment-1.png",
+      "PackagePath": "staticwebassets\\img\\payment\\payment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\payment\\payment-2.png",
+      "PackagePath": "staticwebassets\\img\\payment\\payment-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\payment\\payment-3.png",
+      "PackagePath": "staticwebassets\\img\\payment\\payment-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\payment\\payment-4.png",
+      "PackagePath": "staticwebassets\\img\\payment\\payment-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\payment\\payment-5.png",
+      "PackagePath": "staticwebassets\\img\\payment\\payment-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\details\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\details\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\details\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\details\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-1",
+      "PackagePath": "staticwebassets\\img\\product"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-2.avif",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.avif"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-3",
+      "PackagePath": "staticwebassets\\img\\product"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-4",
+      "PackagePath": "staticwebassets\\img\\product"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-5",
+      "PackagePath": "staticwebassets\\img\\product"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-6",
+      "PackagePath": "staticwebassets\\img\\product"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-7",
+      "PackagePath": "staticwebassets\\img\\product"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\related\\rp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\rp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\related\\rp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\rp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\related\\rp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\rp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\related\\rp-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\rp-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop-cart\\cp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-cart\\cp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop-cart\\cp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-cart\\cp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop-cart\\cp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-cart\\cp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop-cart\\cp-4.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-cart\\cp-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop\\shop-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop\\shop-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop\\shop-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop\\shop-4.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop\\shop-5.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop\\shop-6.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop\\shop-7.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop\\shop-8.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop\\shop-9.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\trend\\bs-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\bs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\trend\\bs-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\bs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\trend\\bs-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\bs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\trend\\f-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\f-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\trend\\f-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\f-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\trend\\f-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\f-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\trend\\ht-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\ht-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\trend\\ht-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\ht-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\trend\\ht-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\ht-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_categories.scss",
+      "PackagePath": "staticwebassets\\sass\\_categories.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_checkout.scss",
+      "PackagePath": "staticwebassets\\sass\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_product-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_product-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_product.scss",
+      "PackagePath": "staticwebassets\\sass\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_shop-cart.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop-cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_shop.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Alpha.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Alpha.props",
+      "PackagePath": "build\\Alpha.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Alpha.props",
+      "PackagePath": "buildMultiTargeting\\Alpha.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Alpha.props",
+      "PackagePath": "buildTransitive\\Alpha.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
