@@ -6,25 +6,41 @@ namespace Alpha.Controllers
 {
     public class CartController : Controller
     {
-        // Simulate a database or session-based cart
+        
         private static List<CartItem> Cart = new List<CartItem>();
+        
         public IActionResult Index()
-{
-    // Retrieve the cart from the session (or initialize a new one if it doesn't exist)
-    var cart = HttpContext.Session.GetObjectFromJson<List<CartItem>>("Cart") ?? new List<CartItem>();
+        {
+           
+            var cart = HttpContext.Session.GetObjectFromJson<List<CartItem>>("Cart") ?? new List<CartItem>();
 
-    // Pass the cart to the view
-    return View(cart);
-}
+            
+            return View(cart);
+        }
+       
+        [HttpPost]
+        public IActionResult Show([FromForm] UserDetails u)
+        {
+            Console.WriteLine($"Fullname: {u.fullname}");
+            Console.WriteLine($"Email: {u.mail}");
+            Console.WriteLine($"Country: {u.country}");
+            Console.WriteLine($"Phone: {u.phone}");
 
+            // Reset the cart
+            HttpContext.Session.SetObjectAsJson("Cart", new List<CartItem>());
+
+            return Ok(new { message = "Order placed successfully!" });
+        }
 
         [HttpPost]
         public IActionResult AddToCart([FromBody] CartItem item)
         {
-            // Retrieve cart from session or initialize a new one
+            
             var cart = HttpContext.Session.GetObjectFromJson<List<CartItem>>("Cart") ?? new List<CartItem>();
 
-            // Check if the item is already in the cart
+           
+
+
             var existingItem = cart.FirstOrDefault(c => c.ProductId == item.ProductId);
             if (existingItem != null)
             {
@@ -32,7 +48,7 @@ namespace Alpha.Controllers
             }
             else
             {
-                // Add new item to the cart
+                
                 cart.Add(new CartItem
                 {
                     ProductId = item.ProductId,
@@ -48,6 +64,16 @@ namespace Alpha.Controllers
 
             return Json(new { success = true, cartCount = cart.Sum(c => c.Quantity) });
         }
+        public IActionResult CheckOut()
+        {
+
+            var cart = HttpContext.Session.GetObjectFromJson<List<CartItem>>("Cart") ?? new List<CartItem>();
+
+
+            return View(cart);
+        }
+
+
 
     }
 }

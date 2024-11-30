@@ -3252,8 +3252,8 @@ ol {
 /* Card */
 .card {
 	position: relative;
-	width: 18rem; /* Increased width */
-	border-radius: 15px; /* Added rounded corners */
+	width: 18rem; 
+	border-radius: 15px; 
 	overflow: hidden;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 	transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -3306,7 +3306,7 @@ ol {
 	padding: 1rem;
 	box-sizing: border-box;
 	text-align: center;
-	border-radius: 15px; /* Match card's rounded corners */
+	border-radius: 15px;
 }
 
 	.card-overlay h5 {
@@ -3361,13 +3361,13 @@ ol {
 	}
 
 		.test .card .face.front-face {
-			background-color:papayawhip; /* Changed the front face color to pink */
+			background-color:papayawhip; 
 			z-index: 2;
 			transform: rotateY(0deg);
 		}
 
 		.test .card .face.back-face {
-			background-color: papayawhip; /* Changed the back face color to pink */
+			background-color: papayawhip;
 			transform: rotateY(180deg);
 			z-index: 1;
 			padding: 20px;
@@ -3389,7 +3389,6 @@ ol {
 		object-fit: cover;
 	}
 
-	/* Quote Icons Adjustments */
 	.test .card .fa-quote-left,
 	.test .card .fa-quote-right {
 		position: absolute;

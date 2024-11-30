@@ -43,22 +43,20 @@ namespace Alpha.Controllers
             string imagePathinroot = "~/UploadedFiles/Women/" + b.CoverImage.FileName;
             b.ImageUrl = imagePathinroot;
 
-            // Update ModelState with new ImageUrl value
-            ModelState.Clear(); // Clear existing validation
-            TryValidateModel(b); // Revalidate after setting ImageUrl
-
+           
+            ModelState.Clear(); 
+            TryValidateModel(b);
             if (!ModelState.IsValid)
             {
-                // Log the validation errors
                 foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
                 {
                     _logger.LogError("Validation Error: " + error.ErrorMessage);
                 }
 
-                return View(b); // Return the view with validation errors
+                return View(b);
             }
             _repository.Add(b);
-            return RedirectToAction("Index"); // Redirect to avoid re-submission
+            return RedirectToAction("Index");
         }
 
         [HttpGet]

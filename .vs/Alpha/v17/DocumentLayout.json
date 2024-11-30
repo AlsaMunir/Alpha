@@ -3,32 +3,140 @@
   "WorkspaceRootPath": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\womencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\womencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\men\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\men\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\men\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\men\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\accessories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\accessories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\women.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\women.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\skincare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\skincare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\men.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\men.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\genericrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\genericrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\accessories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\accessories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\accessories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\accessories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\skincare\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\skincare\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\women\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\women\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\women\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\women\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\women\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\women\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\skincarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\skincarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\mencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\mencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\accessoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\accessoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,24 +147,44 @@
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\areas\\identity\\data\\alphacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\areas\\identity\\data\\alphacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\css\\owl.carousel.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\css\\owl.carousel.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\css\\magnific-popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\css\\magnific-popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\css\\jquery-ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\css\\jquery-ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\css\\font-awesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\css\\elegant-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\css\\elegant-icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\skincare\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -69,34 +197,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\men\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\men\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\men\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\men\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\men\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\men\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\skincare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\skincare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\accessories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\accessories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\men.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\men.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\women.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\women.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -115,16 +215,8 @@
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\sass\\_base.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\women\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\women\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\migrations\\alpha\\alphacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,52 +243,12 @@
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\accessories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\accessories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\accessories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\accessories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\skincare\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\skincare\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\skincare\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\skincare\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\accessoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\accessoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\skincarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\skincarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\womencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\womencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\mencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\mencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\women\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\women\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\views\\women\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\women\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\genericrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\genericrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Alpha/True/SqlTable/dbo.Women.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -206,24 +258,8 @@
       "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\20241120200536_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Alpha\\Migrations\\20241120200536_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|c:\\users\\alsa munir\\source\\repos\\alpha\\alpha\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8054E237-126A-4E01-B38B-1CD5BB302EF3}|Alpha\\Alpha.csproj|solutionrelative:alpha\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\ShopCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -237,152 +273,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAiwFMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T16:02:12.339Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Alpha\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Alpha\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:51:10.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Alpha\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Alpha\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:30:14.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Men\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Men\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Men\\Delete.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Men\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T16:22:47.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WomenController.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\WomenController.cs",
+              "RelativeDocumentMoniker": "Alpha\\Controllers\\WomenController.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\WomenController.cs",
+              "RelativeToolTip": "Alpha\\Controllers\\WomenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T20:09:45.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "Alpha\\Views\\Cart\\Index.cshtml",
               "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Cart\\Index.cshtml",
               "RelativeToolTip": "Alpha\\Views\\Cart\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-27T17:45:53.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SessionExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\SessionExtension.cs",
-              "RelativeDocumentMoniker": "Alpha\\Models\\SessionExtension.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\SessionExtension.cs",
-              "RelativeToolTip": "Alpha\\Models\\SessionExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:39:53.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "Alpha\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "Alpha\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-27T17:33:18.175Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "Alpha\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Alpha\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:30:14.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "Alpha\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\CartItem.cs",
-              "RelativeToolTip": "Alpha\\Models\\CartItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:29:35.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Index.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Accessories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Index.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Accessories\\Index.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAACIAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T16:28:14.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Alpha\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Alpha\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T15:51:10.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAKIAAAAAAAAAAAAiwLgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T16:02:12.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "ShopCart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\ShopCart.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Home\\ShopCart.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\ShopCart.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Home\\ShopCart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T17:12:09.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Program.cs",
-              "RelativeDocumentMoniker": "Alpha\\Program.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Program.cs",
-              "RelativeToolTip": "Alpha\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T19:06:36.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\SkinCare\\Index.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\SkinCare\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\SkinCare\\Index.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\SkinCare\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T16:32:27.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Alpha\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Alpha\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAKoBAAAAAAAAAAAAALoBAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T15:40:46.555Z"
+              "WhenOpened": "2024-11-21T15:40:46.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -392,108 +373,85 @@
               "RelativeDocumentMoniker": "Alpha\\Views\\Home\\About.cshtml",
               "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "Alpha\\Views\\Home\\About.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-26T19:10:12.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Alpha\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "DocumentIndex": 5,
+              "Title": "CheckOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Cart\\CheckOut.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Cart\\CheckOut.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Cart\\CheckOut.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Cart\\CheckOut.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T15:51:59.199Z"
+              "WhenOpened": "2024-11-29T12:19:01.8Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T17:07:20.345Z"
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\UserDetails.cs",
+              "RelativeDocumentMoniker": "Alpha\\Models\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\UserDetails.cs",
+              "RelativeToolTip": "Alpha\\Models\\UserDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:47:47.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "cate-4.jpg",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\categories\\cate-4.jpg",
-              "RelativeDocumentMoniker": "Alpha\\wwwroot\\img\\categories\\cate-4.jpg",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\categories\\cate-4.jpg",
-              "RelativeToolTip": "Alpha\\wwwroot\\img\\categories\\cate-4.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-26T17:43:55.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Men\\Index.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Men\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Men\\Index.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Men\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T16:22:11.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Men\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Men\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Men\\Delete.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Men\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T16:22:47.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Style.css",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\Style.css",
-              "RelativeDocumentMoniker": "Alpha\\wwwroot\\css\\Style.css",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\Style.css",
-              "RelativeToolTip": "Alpha\\wwwroot\\css\\Style.css",
-              "ViewState": "AQIAAB4NAAAAAAAAAAAAwCwNAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-18T16:06:11.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Men\\Add.cshtml",
               "RelativeDocumentMoniker": "Alpha\\Views\\Men\\Add.cshtml",
               "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Men\\Add.cshtml",
               "RelativeToolTip": "Alpha\\Views\\Men\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABUAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-21T16:23:04.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-19T18:45:57.923Z"
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Program.cs",
+              "RelativeDocumentMoniker": "Alpha\\Program.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Program.cs",
+              "RelativeToolTip": "Alpha\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:06:36.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 12,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Add.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Accessories\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Add.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Accessories\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T16:26:17.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Women.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\Women.cs",
+              "RelativeDocumentMoniker": "Alpha\\Models\\Women.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\Women.cs",
+              "RelativeToolTip": "Alpha\\Models\\Women.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:48:31.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "SkinCare.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\SkinCare.cs",
               "RelativeDocumentMoniker": "Alpha\\Models\\SkinCare.cs",
@@ -505,7 +463,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 15,
+              "Title": "SessionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\SessionExtension.cs",
+              "RelativeDocumentMoniker": "Alpha\\Models\\SessionExtension.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\SessionExtension.cs",
+              "RelativeToolTip": "Alpha\\Models\\SessionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:39:53.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Men.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\Men.cs",
               "RelativeDocumentMoniker": "Alpha\\Models\\Men.cs",
@@ -517,7 +487,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "Alpha\\Models\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\IRepository.cs",
+              "RelativeToolTip": "Alpha\\Models\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:29:24.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\GenericRepos.cs",
+              "RelativeDocumentMoniker": "Alpha\\Models\\GenericRepos.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\GenericRepos.cs",
+              "RelativeToolTip": "Alpha\\Models\\GenericRepos.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:32:19.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Alpha\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Alpha\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:54:30.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Alpha\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\CartItem.cs",
+              "RelativeToolTip": "Alpha\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:29:35.311Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Alpha\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Alpha\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:47:53.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Accessories.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\Accessories.cs",
               "RelativeDocumentMoniker": "Alpha\\Models\\Accessories.cs",
@@ -530,246 +561,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Women.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\Women.cs",
-              "RelativeDocumentMoniker": "Alpha\\Models\\Women.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\Women.cs",
-              "RelativeToolTip": "Alpha\\Models\\Women.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:48:31.094Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Accessories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Index.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Accessories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T16:28:14.298Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "main.js",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\main.js",
-              "RelativeDocumentMoniker": "Alpha\\wwwroot\\js\\main.js",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\main.js",
-              "RelativeToolTip": "Alpha\\wwwroot\\js\\main.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-25T16:48:28.195Z"
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T18:45:57.923Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "bootstrap.bundle.js",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js",
-              "RelativeDocumentMoniker": "Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js",
-              "RelativeToolTip": "Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js",
-              "ViewState": "AQIAAPAUAAAAAAAAAAAgwC0VAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-25T16:49:56.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "bootstrap.bundle.js",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "RelativeDocumentMoniker": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "RelativeToolTip": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "ViewState": "AQIAAIEVAAAAAAAAAAAgwJQVAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-25T16:49:50.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "_base.scss",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_base.scss",
-              "RelativeDocumentMoniker": "Alpha\\wwwroot\\sass\\_base.scss",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_base.scss",
-              "RelativeToolTip": "Alpha\\wwwroot\\sass\\_base.scss",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-11-25T16:48:52.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Women\\Index.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Women\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Women\\Index.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Women\\Index.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAABBwAkAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T18:36:46.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T16:44:41.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AlphaContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\Alpha\\AlphaContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Alpha\\Migrations\\Alpha\\AlphaContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\Alpha\\AlphaContextModelSnapshot.cs",
-              "RelativeToolTip": "Alpha\\Migrations\\Alpha\\AlphaContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:48:27.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20241123154804_InitialIdentitySetUp.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\Alpha\\20241123154804_InitialIdentitySetUp.cs",
-              "RelativeDocumentMoniker": "Alpha\\Migrations\\Alpha\\20241123154804_InitialIdentitySetUp.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\Alpha\\20241123154804_InitialIdentitySetUp.cs",
-              "RelativeToolTip": "Alpha\\Migrations\\Alpha\\20241123154804_InitialIdentitySetUp.cs",
-              "ViewState": "AQIAAKcAAAAAAAAAAABRwA4AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:48:04.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\appsettings.json",
-              "RelativeDocumentMoniker": "Alpha\\appsettings.json",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\appsettings.json",
-              "RelativeToolTip": "Alpha\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-20T19:42:07.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAABRwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T15:52:06.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "bootstrap-grid.min.css.map",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-              "RelativeDocumentMoniker": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-              "RelativeToolTip": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-22T18:42:34.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "bootstrap-grid.css.map",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-              "RelativeDocumentMoniker": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-              "RelativeToolTip": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAm2AIA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-22T18:42:26.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "bootstrap-grid.rtl.css.map",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-              "RelativeDocumentMoniker": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-              "RelativeToolTip": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACW1wIA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-22T18:42:37.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\SkinCare\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\SkinCare\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\SkinCare\\Delete.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\SkinCare\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T16:31:34.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Accessories\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Delete.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Accessories\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T16:27:42.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Add.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Accessories\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Add.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Accessories\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T16:26:17.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "SkinCareController.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\SkinCareController.cs",
-              "RelativeDocumentMoniker": "Alpha\\Controllers\\SkinCareController.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\SkinCareController.cs",
-              "RelativeToolTip": "Alpha\\Controllers\\SkinCareController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T20:10:51.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "AccessoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\AccessoriesController.cs",
-              "RelativeDocumentMoniker": "Alpha\\Controllers\\AccessoriesController.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\AccessoriesController.cs",
-              "RelativeToolTip": "Alpha\\Controllers\\AccessoriesController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAABhwBEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T20:10:24.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "MenController.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\MenController.cs",
-              "RelativeDocumentMoniker": "Alpha\\Controllers\\MenController.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\MenController.cs",
-              "RelativeToolTip": "Alpha\\Controllers\\MenController.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAYwF0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T20:10:05.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\SkinCare\\Add.cshtml",
               "RelativeDocumentMoniker": "Alpha\\Views\\SkinCare\\Add.cshtml",
@@ -781,19 +596,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "WomenController.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\WomenController.cs",
-              "RelativeDocumentMoniker": "Alpha\\Controllers\\WomenController.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\WomenController.cs",
-              "RelativeToolTip": "Alpha\\Controllers\\WomenController.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAYwF0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T20:09:45.109Z"
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Women\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Women\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Women\\Index.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Women\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T18:36:46.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 27,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Women\\Delete.cshtml",
               "RelativeDocumentMoniker": "Alpha\\Views\\Women\\Delete.cshtml",
@@ -805,76 +620,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 28,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Women\\Add.cshtml",
               "RelativeDocumentMoniker": "Alpha\\Views\\Women\\Add.cshtml",
               "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Women\\Add.cshtml",
               "RelativeToolTip": "Alpha\\Views\\Women\\Add.cshtml",
-              "ViewState": "AQIAACkAAAAAAAAAAAAuwEMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-20T20:17:40.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "GenericRepos.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\GenericRepos.cs",
-              "RelativeDocumentMoniker": "Alpha\\Models\\GenericRepos.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\GenericRepos.cs",
-              "RelativeToolTip": "Alpha\\Models\\GenericRepos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\appsettings.json",
+              "RelativeDocumentMoniker": "Alpha\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\appsettings.json",
+              "RelativeToolTip": "Alpha\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T19:42:07.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SkinCareController.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\SkinCareController.cs",
+              "RelativeDocumentMoniker": "Alpha\\Controllers\\SkinCareController.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\SkinCareController.cs",
+              "RelativeToolTip": "Alpha\\Controllers\\SkinCareController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:32:19.573Z"
+              "WhenOpened": "2024-11-19T20:10:51.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Alpha\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Alpha\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "DocumentIndex": 31,
+              "Title": "MenController.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\MenController.cs",
+              "RelativeDocumentMoniker": "Alpha\\Controllers\\MenController.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\MenController.cs",
+              "RelativeToolTip": "Alpha\\Controllers\\MenController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAADIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:47:53.242Z"
+              "WhenOpened": "2024-11-19T20:10:05.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "dbo.Women [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Alpha/True/SqlTable/dbo.Women.sql",
-              "ToolTip": "dbo.Women [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-21T13:53:29.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "Alpha\\Views\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Admin\\Index.cshtml",
-              "RelativeToolTip": "Alpha\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-20T20:08:53.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Alpha\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Alpha\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T19:54:30.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 32,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "Alpha\\Controllers\\AdminController.cs",
@@ -886,30 +680,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\IRepository.cs",
-              "RelativeDocumentMoniker": "Alpha\\Models\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Models\\IRepository.cs",
-              "RelativeToolTip": "Alpha\\Models\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "DocumentIndex": 33,
+              "Title": "AccessoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\AccessoriesController.cs",
+              "RelativeDocumentMoniker": "Alpha\\Controllers\\AccessoriesController.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Controllers\\AccessoriesController.cs",
+              "RelativeToolTip": "Alpha\\Controllers\\AccessoriesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:29:24.249Z"
+              "WhenOpened": "2024-11-19T20:10:24.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "20241120200536_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\20241120200536_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Alpha\\Migrations\\20241120200536_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\20241120200536_InitialCreate.cs",
-              "RelativeToolTip": "Alpha\\Migrations\\20241120200536_InitialCreate.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T20:05:37.567Z"
+              "DocumentIndex": 34,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T17:07:20.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Alpha\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T15:51:59.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AlphaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Data\\AlphaContext.cs",
+              "RelativeDocumentMoniker": "Alpha\\Areas\\Identity\\Data\\AlphaContext.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Data\\AlphaContext.cs",
+              "RelativeToolTip": "Alpha\\Areas\\Identity\\Data\\AlphaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:09:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "Alpha\\wwwroot\\css\\Style.css",
+              "ViewState": "AQIAAKwGAAAAAAAAAAAAwLgGAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-18T16:06:11.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Alpha\\wwwroot\\css\\site.css",
@@ -918,6 +749,325 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-18T16:05:32.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "owl.carousel.min.css",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\owl.carousel.min.css",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\css\\owl.carousel.min.css",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\owl.carousel.min.css",
+              "RelativeToolTip": "Alpha\\wwwroot\\css\\owl.carousel.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T12:06:46.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "magnific-popup.css",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\magnific-popup.css",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\css\\magnific-popup.css",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\magnific-popup.css",
+              "RelativeToolTip": "Alpha\\wwwroot\\css\\magnific-popup.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T12:06:43.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "jquery-ui.min.css",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\jquery-ui.min.css",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\css\\jquery-ui.min.css",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\jquery-ui.min.css",
+              "RelativeToolTip": "Alpha\\wwwroot\\css\\jquery-ui.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T12:06:40.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "font-awesome.min.css",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\font-awesome.min.css",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\css\\font-awesome.min.css",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\font-awesome.min.css",
+              "RelativeToolTip": "Alpha\\wwwroot\\css\\font-awesome.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T12:06:38.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "elegant-icons.css",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\elegant-icons.css",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\css\\elegant-icons.css",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\elegant-icons.css",
+              "RelativeToolTip": "Alpha\\wwwroot\\css\\elegant-icons.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T12:06:05.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Alpha\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T17:33:18.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\css\\bootstrap.min.css",
+              "RelativeToolTip": "Alpha\\wwwroot\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T12:06:33.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ShopCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\ShopCart.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Home\\ShopCart.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Home\\ShopCart.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Home\\ShopCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T17:12:09.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\SkinCare\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\SkinCare\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\SkinCare\\Index.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\SkinCare\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T16:32:27.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "cate-4.jpg",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\categories\\cate-4.jpg",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\img\\categories\\cate-4.jpg",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\categories\\cate-4.jpg",
+              "RelativeToolTip": "Alpha\\wwwroot\\img\\categories\\cate-4.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-26T17:43:55.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Men\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Men\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Men\\Index.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Men\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T16:22:11.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\js\\main.js",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "Alpha\\wwwroot\\js\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-25T16:48:28.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "Alpha\\wwwroot\\Source\\bootstrap-4.2.1-dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AQIAAPAUAAAAAAAAAAAgwC0VAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-25T16:49:56.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AQIAAIEVAAAAAAAAAAAgwJQVAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-25T16:49:50.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_base.scss",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_base.scss",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\sass\\_base.scss",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\sass\\_base.scss",
+              "RelativeToolTip": "Alpha\\wwwroot\\sass\\_base.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-11-25T16:48:52.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T16:44:41.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AlphaContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\Alpha\\AlphaContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Alpha\\Migrations\\Alpha\\AlphaContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\Alpha\\AlphaContextModelSnapshot.cs",
+              "RelativeToolTip": "Alpha\\Migrations\\Alpha\\AlphaContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:48:27.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20241123154804_InitialIdentitySetUp.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\Alpha\\20241123154804_InitialIdentitySetUp.cs",
+              "RelativeDocumentMoniker": "Alpha\\Migrations\\Alpha\\20241123154804_InitialIdentitySetUp.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\Alpha\\20241123154804_InitialIdentitySetUp.cs",
+              "RelativeToolTip": "Alpha\\Migrations\\Alpha\\20241123154804_InitialIdentitySetUp.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAABRwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:48:04.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Alpha\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:52:06.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T18:42:34.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAm2AIA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T18:42:26.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "Alpha\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACW1wIA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T18:42:37.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\SkinCare\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\SkinCare\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\SkinCare\\Delete.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\SkinCare\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T16:31:34.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Accessories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Accessories\\Delete.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Accessories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T16:27:42.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "dbo.Women [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Alpha/True/SqlTable/dbo.Women.sql",
+              "ToolTip": "dbo.Women [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-21T13:53:29.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Alpha\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Alpha\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T20:08:53.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20241120200536_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\20241120200536_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Alpha\\Migrations\\20241120200536_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\Migrations\\20241120200536_InitialCreate.cs",
+              "RelativeToolTip": "Alpha\\Migrations\\20241120200536_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:05:37.567Z"
             }
           ]
         },

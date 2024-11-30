@@ -1,0 +1,105 @@
+﻿@model List<CartItem>
+@{
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<!-- Checkout Section Begin -->
+<section class="checkout spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h6 class="coupon__link">
+                    <span class="icon_tag_alt"></span> <a href="#">Have a coupon?</a> Click
+                    here to enter your code.
+                </h6>
+            </div>
+        </div>
+        <form action="#" class="checkout__form">
+            <div class="row">
+                <div class="col-lg-8">
+                    <h5>Billing detail</h5>
+                    @Html.AntiForgeryToken()
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="checkout__form__input">
+                                <p>Full Name <span>*</span></p>
+                                <input type="text" id="fullname" name="fullname">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="checkout__form__input">
+                                <p>Country <span>*</span></p>
+                                <input type="text" id="country" name="country">
+                            </div>
+                            <div class="checkout__form__input">
+                                <p>Email <span>*</span></p>
+                                <input type="text" id="mail" name="mail">
+                            </div>
+                            <div class="checkout__form__input">
+                                <p>Phone <span>*</span></p>
+                                <input type="text" id="phone" name="phone">
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="checkout__order">
+                        <h5>Your order</h5>
+                        <div class="checkout__order__product">
+                            <ul>
+                                <li>
+                                    <span class="top__text">Product</span>
+                                    <span class="top__text__right">Total</span>
+                                </li>
+                                @foreach (var i in Model)
+                                {
+                                    <li>@i.ProductName <span>@(i.Price * i.Quantity)</span></li>
+                                }
+
+                            </ul>
+                        </div>
+                        <div class="checkout__order__total">
+                            <ul>
+                                <li>Total <span>@Model.Sum(i => i.Quantity * i.Price)</span></li>
+                            </ul>
+                        </div>
+
+                        <button type="submit" class="site-btn" onclick="place()">Place order</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+<!-- Checkout Section End -->
+@section Scripts {
+    <script>
+        function place() {
+            var f = new FormData();
+            f.append("fullname", $('#fullname').val());
+            f.append("mail", $('#mail').val());
+            f.append("country", $('#country').val());
+            f.append("phone", $('#phone').val());
+            f.append("__RequestVerificationToken", $('input[name="__RequestVerificationToken"]').val());
+
+            $.ajax({
+                url: '/Cart/Show',
+                method: 'POST',
+                data: f,
+                contentType: false,
+                processData: false,
+                success: function (data) {
+                    console.log(data.message);
+                    alert("Order placed successfully! Cart has been reset.");
+                },
+                error: function (err) {
+                    console.error(err.responseText);
+                    alert("Error placing the order. Check console for details.");
+                }
+            });
+        }
+
+
+    </script>
+}

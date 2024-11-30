@@ -20,7 +20,6 @@ namespace Alpha.Controllers
         {
             return View();
         }
-
-
+    
     }
 }

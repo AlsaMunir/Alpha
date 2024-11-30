@@ -1641,6 +1641,22 @@
       "PackagePath": "staticwebassets\\img\\payment\\payment-5.png"
     },
     {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\bag.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\bag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\blazzer.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\blazzer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\check.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\check.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\cottont.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\cottont.jpg"
+    },
+    {
       "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\details\\product-1.jpg",
       "PackagePath": "staticwebassets\\img\\product\\details\\product-1.jpg"
     },
@@ -1673,32 +1689,12 @@
       "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-1",
-      "PackagePath": "staticwebassets\\img\\product"
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\dress.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\dress.jpg"
     },
     {
-      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-2.avif",
-      "PackagePath": "staticwebassets\\img\\product\\product-2.avif"
-    },
-    {
-      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-3",
-      "PackagePath": "staticwebassets\\img\\product"
-    },
-    {
-      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-4",
-      "PackagePath": "staticwebassets\\img\\product"
-    },
-    {
-      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-5",
-      "PackagePath": "staticwebassets\\img\\product"
-    },
-    {
-      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-6",
-      "PackagePath": "staticwebassets\\img\\product"
-    },
-    {
-      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\product-7",
-      "PackagePath": "staticwebassets\\img\\product"
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\kimono.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\kimono.jpg"
     },
     {
       "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\related\\rp-1.jpg",
@@ -1715,6 +1711,14 @@
     {
       "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\related\\rp-4.jpg",
       "PackagePath": "staticwebassets\\img\\product\\related\\rp-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\skirt.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\skirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\product\\sun.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\sun.jpg"
     },
     {
       "Id": "C:\\Users\\Alsa Munir\\source\\repos\\Alpha\\Alpha\\wwwroot\\img\\shop-cart\\cp-1.jpg",
